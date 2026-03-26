@@ -1,0 +1,67 @@
+{
+  "general": {
+    "name": "Iglesia Crece",
+    "description": "En CRECE, es nuestro deseo crecer en Cristo, fortalecer vidas, y servir a otros con amor. Crezcamos Juntos!Join us Sundays at 10am in the Skyline Plaza! Únete a nosotros los domingos a las 10 de la mañana.",
+    "logo": "/src/assets/logo.png",
+    "youtube": "https://www.youtube.com/@crece4"
+  },
+  "header": {
+    "displayTitle": true,
+    "displayLogo": false
+  },
+  "body": {
+    "hero": {
+      "text": "<span class='opacity-40'>Bienvenidos</span><span class='text-primary'> a nuestra iglesia. </span><span class='opacity-40'> </span>",
+      "bgImage": "src/assets/hero-bg.webp"
+    },
+    "cta": {
+      "text": "10 am Domingos | Transmisión en vivo",
+      "link": "https://www.youtube.com/@crece4"
+    }
+  },
+  "footer": {
+    "left": {
+      "sections": [
+        {
+          "heading": "Domingos a las 10 am",
+          "description": "<address>8109 Greenleaf Ave<br />Whittier, CA 90602</address>"
+        },
+        {
+          "heading": "Contáctanos",
+          "description": "<a href='mailto:crecechurch@gmail.com'>crecechurch@gmail.com</a><br />(562)550-0906"
+        }
+      ],
+      "social": [
+        {
+          "name": "Facebook",
+          "icon": "simple-icons:facebook",
+          "link": "https://www.facebook.com/crecechurch/"
+        },
+        {
+          "name": "Youtube",
+          "icon": "simple-icons:youtube",
+          "link": "https://www.youtube.com/@crece4"
+        },
+        {
+          "name": "Instagram",
+          "icon": "simple-icons:instagram",
+          "link": "https://www.instagram.com/iglesiacrece/"
+        }
+      ]
+    },
+    "form": {
+      "isActive": true,
+      "heading": "Boletín Semanal",
+      "description": "Suscríbete para mantenerte informado y conectado con las novedades semanales de Iglesia Crece."
+    },
+    "give": {
+      "isActive": true,
+      "heading": "Donar a Iglesia Crece",
+      "description": "Haz clic abajo para hacer una ofrenda única o recurrente a Iglesia Crece.",
+      "link": "https://get.tithe.ly/"
+    }
+  },
+  "theme": {
+    "colorScheme": "auto"
+  }
+}
