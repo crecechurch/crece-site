@@ -1,0 +1,26 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.crece-logo-crop {
+    display: block;
+    width: 310px;
+    height: 310px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.crece-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: -95px 0px 0px -95px;
+}
