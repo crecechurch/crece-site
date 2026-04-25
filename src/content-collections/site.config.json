@@ -62,6 +62,6 @@
     }
   },
   "theme": {
-    "colorScheme": "light"
+    "colorScheme": "auto"
   }
 }
